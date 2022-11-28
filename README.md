@@ -18,6 +18,7 @@ Awesome list of status pages open source software, online services and public st
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
+* [Okazanta](https://github.com/Okazanta/Okazanta-core) - Modern open source status page software written in Laravel/PHP (fork of Cachet)
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
@@ -113,7 +114,7 @@ Awesome list of status pages open source software, online services and public st
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
-* [Microsoft Azure Status](https://status.azure.com/ru-ru/status) - Microsoft Azure status page
+* [Microsoft Azure Status](https://status.azure.com/en-us/status) - Microsoft Azure status page
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Oracle Cloud Infrastructure](https://ocistatus.oraclecloud.com/) - Oracle Cloud Infrastructure status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page

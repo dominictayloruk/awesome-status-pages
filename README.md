@@ -9,7 +9,7 @@ Awesome list of status pages open source software, online services and public st
 * [Hosting](#hosting-and-cloud)
 
 ## Opensource
-* ~~[Cachet](https://cachethq.io/)~~ - Laravel based status page system for everyone. *(Discontinued / Un-Supported)*
+* [Cachet](https://cachethq.io/)~~ - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * [ClearStatus](https://github.com/weeblrpress/clearstatus/) - Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
 * ~~[Corestats](https://github.com/jayfk/statuspage)~~ - *(Discontinued / Un-Supported)*
@@ -24,7 +24,7 @@ Awesome list of status pages open source software, online services and public st
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
-* [Okazanta](https://github.com/Okazanta/Okazanta-core) - Modern open source status page software written in Laravel/PHP (fork of Cachet)
+* ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
@@ -60,14 +60,17 @@ Awesome list of status pages open source software, online services and public st
 * [Hund](https://hund.io/)
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
+* [IsDown.app](https://isdown.app) - Status pages aggregator for all third-party services & Uptime monitoring.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
+* [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
-* [Pulsetic](https://pulsetic.com/) - create beautiful status pages & incident management reports and keep your visitors updated
+* [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
+* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
@@ -123,7 +126,7 @@ Awesome list of status pages open source software, online services and public st
 * [Microsoft Office365 Status](https://status.office365.com/) - Microsoft Office365 status page
 * [Odoo](https://www.saashub.com/odoo-status) - Odoo Status page on 3rd-party page
 * [Okta](https://status.okta.com/) - Okta public status page
-* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance 
+* [OpenAI Status](https://status.openai.com/) - OpenAI's home for real-time and historical data on system performance
 * [Paypal Status Page](https://www.paypal-status.com/product/production)
 * [Pinterest Status Page](https://www.pintereststatus.com/)
 * [Rackspace System Status](https://status.rackspace.com/) - Rackspace hosting and services status page
@@ -161,10 +164,12 @@ Awesome list of status pages open source software, online services and public st
 * [Kinsta](https://status.kinsta.com) - Kinsta status page
 * [Linode](https://status.linode.com) - Linode satus page
 * [Microsoft Azure](https://status.azure.com/en-us/status) - Microsoft Azure status page
+* [Netlify](https://www.netlifystatus.com/) - Netlify status page
 * [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
 * [OVHcloud](https://www.status-ovhcloud.com) - OVHcloud status page
 * [Rackspace](https://status.apps.rackspace.com) - Rackspace status page
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
+* [Vercel](https://www.vercel-status.com/) - Vercel status page
 * [Vultr](https://status.vultr.com) - Vultr status page
 * [Workspace ONE](https://status.workspaceone.com) - VMWARE Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page

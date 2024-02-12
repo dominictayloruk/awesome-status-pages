@@ -1,15 +1,16 @@
 # Awesome status pages  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Awesome list of status pages open source software, online services and public status pages of major internet companies
-### Table of contents
+Awesome list of status pages opensource software, online services, and public status pages of major internet companies.
+
+### Table of Contents
 
 * [Opensource](#opensource)
 * [Services](#services)
-* [Public status pages](#public-status-pages)
-* [Hosting](#hosting-and-cloud)
+* [Public Status Pages](#public-status-pages)
+* [Hosting and Cloud](#hosting-and-cloud)
 
 ## Opensource
-* [Cachet](https://cachethq.io/)~~ - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
+* [Cachet](https://cachethq.io/) - Laravel based status page system for everyone. [3.x coming soon](https://github.com/cachethq/cachet/discussions/4342).
 * [ClearStatus](https://github.com/weeblrpress/clearstatus/) - Hugo-based status page, supports Netlify. Supports events from Github, Gitlab or any git repo with markdown.
 * [ciao](https://github.com/brotandgames/ciao) - checks HTTP(S) URL endpoints for a HTTP status code (or errors on the lower TCP stack) and sends a notification on status change via E-Mail or Webhooks.
 * ~~[Corestats](https://github.com/jayfk/statuspage)~~ - *(Discontinued / Un-Supported)*
@@ -26,6 +27,7 @@ Awesome list of status pages open source software, online services and public st
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
+* [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
 * [Static status](https://github.com/Cyclenerd/static_status) - Bash script to generate a static status page
@@ -44,13 +46,16 @@ Awesome list of status pages open source software, online services and public st
 * [Uptime-Kuma](https://github.com/louislam/uptime-kuma) - A self-hosted monitoring tool like "Uptime Robot".
 * [Vigil](https://github.com/valeriansaliou/vigil) - Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 * [Workers Status Page](https://github.com/eidam/cf-workers-status-page) - Cloudflare Workers (completely on the edge) powered monitoring & status page.
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) - Another monitoring & status page completely powered by Cloudflare Workers & Pages.
+* [Kener](https://kener.ing/) - A SvelteKit + Node.js status page with incident management.
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
-* [Better Uptime](https://betteruptime.com) - Uptime monitoring, on-call alerting, and status pages
+* [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
+* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
@@ -67,6 +72,7 @@ Awesome list of status pages open source software, online services and public st
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
 * [OnlineOrNot](https://onlineornot.com) - hosted public/private status pages with integrated uptime monitoring for websites and APIs
 * [PageFate.com](https://pagefate.com) - free online service with customisable design
+* [PagerDuty Status Pages](https://www.pagerduty.com/platform/business-ops/status-pages/)
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
@@ -82,12 +88,14 @@ Awesome list of status pages open source software, online services and public st
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
+* [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
+* [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
 
-## Public status pages
+## Public Status Pages
 * [Absurd Design](https://status.absurd.design/) - Absurd Design status
 * [Adobe System Status](https://status.adobe.com/) - Adobe services status
 * [Akamai Status](https://cloudharmony.com/status-for-akamai) - Akamai Service Status
@@ -118,6 +126,7 @@ Awesome list of status pages open source software, online services and public st
 * [Google Workspace Status](https://www.google.com/appsstatus) - Google Workspace (formerly G Suite) online status page
 * [Grammarly](https://status.grammarly.com/) - Grammarly status page
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
+* [HiBob](https://status.hibob.io/) - HiBob (HRIS systemm) status page
 * [HubSpot](https://status.hubspot.com/) - HubSpot status page
 * [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
@@ -142,6 +151,7 @@ Awesome list of status pages open source software, online services and public st
 * [Stripe Status](https://status.stripe.com/) - Stripe system status page
 * [Sumsub](https://status.sumsub.com/) - SumSub status page
 * [Sony PlayStation](https://status.playstation.com/) - Sony PlayStation status page
+* [Taskade](https://status.taskade.com/) - Taskade status page
 * [Tailscale](https://status.tailscale.com/) - Tailscale status page
 * [Trakt](https://status.trakt.tv) - Trakt status page
 * [Twitter API Status](https://api.twitterstat.us/) - Twitter API status page
@@ -162,7 +172,7 @@ Awesome list of status pages open source software, online services and public st
 * [Google Cloud](https://status.cloud.google.com/) - Google Cloud status page
 * [Hostinger](https://statuspage.hostinger.com) - Hostinger status page
 * [Kinsta](https://status.kinsta.com) - Kinsta status page
-* [Linode](https://status.linode.com) - Linode satus page
+* [Linode](https://status.linode.com) - Linode status page
 * [Microsoft Azure](https://status.azure.com/en-us/status) - Microsoft Azure status page
 * [Netlify](https://www.netlifystatus.com/) - Netlify status page
 * [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
@@ -171,5 +181,5 @@ Awesome list of status pages open source software, online services and public st
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
 * [Vercel](https://www.vercel-status.com/) - Vercel status page
 * [Vultr](https://status.vultr.com) - Vultr status page
-* [Workspace ONE](https://status.workspaceone.com) - VMWARE Workspace ONE status page
+* [Workspace ONE](https://status.workspaceone.com) - VMware Workspace ONE status page
 * [Yandex.Cloud](https://status.cloud.yandex.ru/) - Yandex.Cloud status page

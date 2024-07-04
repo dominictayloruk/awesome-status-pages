@@ -21,6 +21,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard
 * [health_check](https://github.com/ianheggie/health_check) - Simple health check of Rails app for use with uptime checking sites like newrelic and pingdom
 * [health-monitor-rails](https://github.com/lbeder/health-monitor-rails) - A Rails plugin which provides a health checking and monitoring API of various services and application aspects
+* [HertzBeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with agentless, cluster, prometheus-compatible, custom and status page.
 * [Issue Status](https://github.com/tadhglewis/issue-status) - Simple, modern and flexible status page
 * [Kardio](https://github.com/tmobile/kardio) - Simple Health Status Tool with Rich UI for Services deployed on Kubernetes and other platforms.
 * ~~[LambStatus](https://lambstatus.github.io)~~ *(Discontinued / Un-Supported)*
@@ -35,6 +36,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Statsig's Status Page](https://github.com/statsig-io/statuspage) - A simple, pure html/js, zero-dependency status page powered by GitHub Pages and Actions.
 * ~~[Statusfy](https://marquez.co/statusfy)~~ *(Discontinued / Un-Supported)*
 * [StatusOK](https://github.com/sanathp/statusok)
+* [Statusphere](https://github.com/metoro-io/statusphere) - Api-first status page aggregator
 * ~~[statuspage](https://github.com/darkpixel/statuspage)~~ - Simple self-hosted open source status page site written in Django (inspired by [Cachet](https://cachethq.io/)) *(Discontinued)*
 * [Staytus](https://staytus.co/)
 * [status-page](https://github.com/rails-engine/status-page) - Mountable status page for your Rails application, to check Cache, Redis, Sidekiq
@@ -59,6 +61,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
+* [Garmingo Status](https://garmingo.com/status) - Uptime monitoring and status pages for websites, APIs, ...
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
 * [HetrixTools](https://hetrixtools.com) - uptime monitoring for ips and websites with an integrated status page
 * [Hexadecimal](https://tryhexadecimal.com) - uptime & certificate monitoring and hosted status pages
@@ -66,7 +69,9 @@ Awesome list of status pages opensource software, online services, and public st
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
 * [IsDown.app](https://isdown.app) - Status pages aggregator for all third-party services & Uptime monitoring.
+* [incident.io](https://incident.io/status-pages) - Public, private (domain authenticated), and internal status pages.
 * [Instatus](https://instatus.com) - Free online service with a static & customizable page.
+* [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
 * [NixStats](https://nixstats.com/) - service for servers, web, log and blacklists monitoring
@@ -92,6 +97,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)
 * [UptimeToolbox](https://www.uptimetoolbox.com/) - Website/Server monitors with status pages.
+* [Uptimia](https://www.uptimia.com/) - Website monitoring, on-call alerting with status pages.
 * [WebGazer](https://www.webgazer.io) - Uptime monitoring, cron job monitoring and hosted status pages.
 * [Xitoring](https://xitoring.com) - Uptime monitoring, Server monitoring, built-in hosted status pages.
 
@@ -128,7 +134,9 @@ Awesome list of status pages opensource software, online services, and public st
 * [Heroku Status](https://status.heroku.com/) - Heroku status page
 * [HiBob](https://status.hibob.io/) - HiBob (HRIS systemm) status page
 * [HubSpot](https://status.hubspot.com/) - HubSpot status page
+* [Humanity](https://humanity.status.io/) - Humanity status page
 * [Jitterbit](https://trust.jitterbit.com/) - JitterBit Page status page
+* [Linear](https://linearstatus.com) - Linear status page
 * [LucidApp](https://trust.jitterbit.com/) - LucidChart status page
 * [Mail.ru cloud Status](https://status.mcs.mail.ru/) - Mail.ru Cloud Solutions status page
 * [Microsoft Advertisement Status](https://status.ads.microsoft.com/) - Microsoft Advertisement status page
@@ -178,6 +186,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Oracle Cloud](https://ocistatus.oraclecloud.com/) - Oracle Cloud status page
 * [OVHcloud](https://www.status-ovhcloud.com) - OVHcloud status page
 * [Rackspace](https://status.apps.rackspace.com) - Rackspace status page
+* [Scaleway](https://status.scaleway.com/) - Scaleway status page
 * [UpCloud](https://status.upcloud.com) - UpCloud status page
 * [Vercel](https://www.vercel-status.com/) - Vercel status page
 * [Vultr](https://status.vultr.com) - Vultr status page

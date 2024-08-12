@@ -53,6 +53,7 @@ Awesome list of status pages opensource software, online services, and public st
 
 ## Services
 * [AdminLabs Statuspage](https://www.adminlabs.com/status-page/)
+* [Alerty Monitoring](https://www.alerty.ai) - APM & monitoring for your app and the services it depends on, with agents that help you debug.
 * [AppBeat Monitoring](https://www.appbeat.io/) - uptime monitoring with integrated status page
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
@@ -87,12 +88,14 @@ Awesome list of status pages opensource software, online services, and public st
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
 * [Status.io](https://status.io)
 * [StatusCast](https://statuscast.com/)
+* [StatusGator](https://statusgator.com/) - Status page aggregator with public and private status pages and website monitoring
 * [StatusKeeper](https://statuskeeper.com/)
 * [StatusKit](https://statuskit.com/)
 * [StatusList](https://statuslist.app) - Hosted status pages, uptime monitoring and debug tools in one dashboard.
 * [Statuspage.io](https://www.statuspage.io) - online service from Atlassian
 * [Statuspal](https://statuspal.io) - Hosted status pages & monitoring.
 * ~~[Statusy](https://statusy.co) *(Discontinued)*~~
+* [StatusSight](https://statussight.com/) - status page aggregator for monitoring third-party services and APIs.
 * [StatusTicker](https://statusticker.com) - Aggregated service provider incident and outage monitoring
 * [UpDown.io](https://updown.io/) - uptime monitoring with flexible status with rest api
 * [Uptime Robot](https://uptimerobot.com/)

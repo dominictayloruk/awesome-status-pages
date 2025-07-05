@@ -31,6 +31,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [Monitoror](https://monitoror.com/) - monitoring wallboard
 * ~~[Okazanta](https://github.com/okazanta/Okazanta-legacy)~~ *(Discontinued / Un-Supported)*
 * [OneUptime](https://oneuptime.com/product/status-page) - OneUptime public and private status pages
+* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Pagetron](https://github.com/agrrh/pagetron) - Status page generator, based on Prometheus, designed to be deployed to Kubernetes clusters
 * [Server-Status](https://github.com/Pryx/server-status)
 * [StashBoard](http://www.stashboard.org/) - Python, for Google App Engine (*Deprecated*)
@@ -63,7 +64,6 @@ Awesome list of status pages opensource software, online services, and public st
 * ~~[Asserted.io](https://asserted.io) - uptime tests written in Mocha~~ *(Discontinued)*
 * [Odown](https://odown.io) - Public Status Pages with built-in monitoring for websites and APIs
 * [Better Stack](https://betterstack.com/status-page) - Uptime monitoring, on-call alerting, and status pages
-* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Checkly](https://www.checklyhq.com) - API & E2E monitoring platform
 * [Cronitor.io](https://cronitor.io/status-pages) - Status Pages with built-in monitoring for websites, APIs, cron jobs and heartbeats.
 * [FreshStatus](https://www.freshworks.com/statuspage/)
@@ -75,9 +75,8 @@ Awesome list of status pages opensource software, online services, and public st
 * [Hydrozen.io](https://hydrozen.io/) - Uptime monitoring with built in fast Statuspages & Analytics.
 * [Hyperping.io](https://hyperping.io) - Public & private status pages with built-in monitoring.
 * [IsDown.app](https://isdown.app) - Status page aggregator for all cloud dependencies, uptime monitoring, and internal, and private status pages.
-* [incident.io](https://incident.io/status-pages) - Public, private (domain authenticated), and internal status pages.
-* [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [Incident.io](https://incident.io) - Incident management, on-call alerting, and public, customer, and private status pages.
+* [Instatus](https://instatus.com) - Free online service with a static & customizable page.
 * [IncidentHub](https://incidenthub.cloud/) - Status page aggregator monitoring SaaS and Cloud providers/
 * ~~[LambStatus](https://lambstatus.github.io/)~~ *(Discontinued / Un-Supported)*
 * [LIVCK](https://livck.com) - Monitoring with private/public statuspage
@@ -88,7 +87,6 @@ Awesome list of status pages opensource software, online services, and public st
 * [PingPong](https://pingpong.one) - incident management, uptime & certificate monitoring and hosted status pages
 * [Rootly](https://rootly.io) - incident response platform with status pages built-in
 * [Pulsetic](https://pulsetic.com/) - create status pages & incident management reports and keep your visitors updated
-* [OpenStatus](https://www.openstatus.dev) - Opensource uptime monitoring with status pages with hosted service
 * [Sematext Cloud](https://sematext.com/status-pages-and-incidents/) - public & private status pages with incidents, uptime metrics and charts offered as part of Sematext Synthetics
 * [Sorry™](https://www.sorryapp.com)
 * [Squadcast](https://www.squadcast.com) - On-Call & SRE platform with StatusPages built-in
@@ -122,6 +120,7 @@ Awesome list of status pages opensource software, online services, and public st
 * [AppsFlyer](http://status.appsflyer.com/) - Apps Flyer (marketing app) support status
 * [BambooHR](https://status.bamboohr.com/) - BambooHR status page
 * [BigQuery](https://status.cloud.google.com/) - BigQuery status page
+* [Bluesky](https://status.bsky.app) - Status page for Bluesky social network
 * [Box Status](https://status.box.com/) - Box.net status page
 * [Cloudflare Status](https://www.cloudflarestatus.com/) - Cloudflare System Status
 * [CloudFront Status](https://cloudharmony.com/status-of-cdn-for-aws) - Amazon CloudFront Service Status
